@@ -5,6 +5,11 @@ body{
 	font-family: 'Secular One', sans-serif;
 }
 
+.parallax img{
+	opacity: 0.7;
+}
+
+
 /* horizontal nav slider indicator */
 .arrow {
   border: solid white;
